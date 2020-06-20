@@ -1,2 +1,2 @@
 # Python-Basic-Programs-
-Some very basic python programs for beginners .
+Some very basic python programs for beginners to learn.
